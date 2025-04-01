@@ -1,4 +1,4 @@
-# 🔹Retrievel Augmented Generation For Machine Learning 
+# 🔹Retrievel Augmented Generation For Machine Learning Purposes
 
 ## 📌 Introduction
 RAG (Retrieval-Augmented Generation) is an approach that enhances AI-generated responses by integrating information retrieval from a knowledge base with a large language model (LLM). This project implements a RAG system designed to assist users in identifying the necessary data for their machine learning use cases.
