@@ -2,11 +2,11 @@
 
 
 ## 🎯 Project Goal
-In this project, we :
- > Developed an intelligent conversational assistant to streamline and optimize machine learning work-
-flows  
- > Laverage advanced LLMs capabilities to automate various machine learning tasks (Model (prediction , segmentation ...) Creation, Data Processing, Data Visualization ...) from natural language requests         
- > Integrate an advanced Retrieval Augmented Generation [RAG] pipeline to guide users through their machine learning use cases                         
+In this project, We :
+
+-> Developed an intelligent conversational assistant to streamline and optimize machine learning workflows  
+-> Laverage advanced LLMs capabilities to automate various machine learning tasks (Model (prediction , segmentation ...) Creation, Data Processing, Data Visualization ...) from natural language requests         
+-> Integrate an advanced Retrieval Augmented Generation [RAG] pipeline to guide users through their machine learning use cases                         
 
 
 ---
