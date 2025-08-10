@@ -1,0 +1,4 @@
+project_dir,dataset_path,feature_to_predict
+project_1,housing.csv,median_house_value
+project_2,addiction.csv,addicted
+project_3,population.csv,nb_individu

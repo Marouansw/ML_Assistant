@@ -1,0 +1,2 @@
+user_id,dataset_path,dsp_status,feature_to_predict,ftp_status,project_dir,pd_status,type_action,status_action,status
+7,housing.csv,valid,addicted,valid,project_2,valid,prediction,previous_state,validated

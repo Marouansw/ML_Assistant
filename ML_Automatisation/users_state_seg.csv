@@ -1,0 +1,2 @@
+user_id,dataset_path,dsp_status,project_dir,pd_status,clusters,type_action,status_action,status
+7,housing.csv,valid,project_2,valid,5,segmentation,previous_state,validated

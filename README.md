@@ -1,15 +1,12 @@
-# 🔹Retrievel Augmented Generation For Machine Learning Purposes
-
-## 📌 Introduction
-RAG (Retrieval-Augmented Generation) is an approach that enhances AI-generated responses by integrating information retrieval from a knowledge base with a large language model (LLM). This project implements a RAG system designed to assist users in identifying the necessary data for their machine learning use cases.
-
+# 🔹ML_Assistant -- An AI-powered Assistant for Optimizing ML Workflows (Automation & Guidance)
 
 
 ## 🎯 Project Goal
-The goal of this project is to develop a RAG-based system that helps users determine the essential features and data requirements for their Machine Learning tasks by:
-- Extracting relevant data from datasets
-- Storing structured information for efficient retrieval
-- Generating insightful responses based on user queries                                      
+In this project, we :
+ > Developed an intelligent conversational assistant to streamline and optimize machine learning work-
+flows  
+ > Laverage advanced LLMs capabilities to automate various machine learning tasks (Model (prediction , segmentation ...) Creation, Data Processing, Data Visualization ...) from natural language requests         
+ > Integrate an advanced Retrieval Augmented Generation [RAG] pipeline to guide users through their machine learning use cases                         
 
 
 ---

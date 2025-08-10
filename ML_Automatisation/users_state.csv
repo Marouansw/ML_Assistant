@@ -1,0 +1,10 @@
+user_id,dataset_path,dsp_status,feature_to_predict,ftp_status,project_dir,pd_status,clusters,description,type_action,status_action,status
+3,,,,,project_1,valid,5,,segmentation,current_state,
+3,housing.csv,valid,,,project_1,valid,,,monitoring,previous_state,
+2,addiction.csv,valid,addicted,valid,,,,,prediction,current_state,
+,,,,,,,,,,,
+5,housing.csv,valid,median_house_value,valid,project_2,valid,,,prediction,previous_state,validated
+5,housing.csv,valid,median_house_value,valid,project_2,valid,,,prediction,current_state,ongoing
+6,housing.csv,valid,,,project_1,valid,,I want to use 'housing.csv' table | I wantto visualise the data graph | I want to use previous project directory | I want to use previous project directory,processing,previous_state,validated
+,,,,,,,,I want to use previous project directory,processing,current_state,ongoing
+7,,,,,project_1,valid,4,,segmentation,current_state,ongoing

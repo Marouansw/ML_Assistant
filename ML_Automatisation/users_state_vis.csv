@@ -1,0 +1,3 @@
+user_id,dataset_path,dsp_status,project_dir,pd_status,description,type_action,status_action,status
+7,housing.csv,valid,project_1,valid,I want to use project_1 directory | I want to use dataset 'housing.csv',visualisation,previous_state,validated
+7,housing.csv,valid,project_1,valid," ""The task is to visualize data from the 'housing.csv' dataset using either 'table_1.csv' or the previously used table.""",visualisation,current_state,ongoing
